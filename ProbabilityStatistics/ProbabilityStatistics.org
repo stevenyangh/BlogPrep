@@ -1,0 +1,24 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: Probability and Statistics
+#+DATE: \today
+#+AUTHOR: Yan Hao Wen
+#+EMAIL: stevenyanmu@outlook.com
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.3 (Org mode 9.1.9)
+#+STARTUP: indent
+* Probability and Statistics
+** Probability
+*** 
+** Statistics
+*** cope with uncertainty and variation
+#+BEGIN_QUOTE
+The discipline of statistics teaches us how to make intelligent judgments and informed decisions in the presence of uncertainty and variation.
+-- Jay L. Devore  
+#+END_QUOTE
+
